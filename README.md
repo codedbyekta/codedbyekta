@@ -7,20 +7,62 @@
 ╚██████╗╚██████╔╝██████╔╝███████╗██████╔╝██████╔╝   ██║   ███████╗██║  ██╗   ██║   ██║  ██║
  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═════╝ ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 
+<h1 align="center">Hi, I'm Ekta 👋</h1>
+<h3 align="center">codedbyekta@github ~ %</h3>
+
+```text
+                     .-=========-.          codedbyekta@github
+                  :#%%%%%%%%%%%%%%#:        -------------------------------------
+                :%%%%%%%%%%%%%%%%%%%%:      USER ........ codedbyekta
+               #%%%%%@@%%%%%%@@%%%%%%#      ROLE ........ Developer / CS Undergrad
+              %%%%%@@@@%%%%%%@@@@%%%%%%     UNIVERSITY .. MirAI School of Technology
+             #%%%%%@@@@%%%%%%@@@@%%%%%%#    OS ........... Arch Linux (btw)
+             %%%%%%%%%%%%%%%%%%%%%%%%%%%    UPTIME ....... 21 years, 4 months
+             %%%%%%%%%%%%%%%%%%%%%%%%%%%    KERNEL ....... MirAI B.Tech Student
+             #%%%%%%%%%%##%%%%%%%%%%%%%#    -------------------------------------
+              %%%%%%%%%%####%%%%%%%%%%%     LANGUAGES .... Python, C++, JS/TS
+              :%%%%%%%%%%%%%%%%%%%%%%%:     AI/ML ........ PyTorch, scikit-learn
+               :%%%%%%%%%%%%%%%%%%%%:       BACKEND ...... Node.js, FastAPI, Flask
+                 -%%%%%%%%%%%%%%%%-         DATABASES .... PostgreSQL, MongoDB, Redis
+                   .:%%%%%%%%%%:.            -------------------------------------
+                      .:%%%%:.               HOBBIES ...... AI Engineering, Gaming, Robotics
+                         ''                  CONTACT ...... your.email@example.com
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbyekta&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="codedbyekta's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbyekta&theme=radical&hide_border=true" alt="codedbyekta's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyekta&layout=compact&theme=radical&hide_border=true" alt="codedbyekta's top languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codedbyekta&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
+
+
+
+
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                         EKTA // SYSTEM PROFILE                              ║
-║               CSE-AI • SOFTWARE • SYSTEMS • INTELLIGENCE                    ║
+║                         EKTA // SYSTEM PROFILE                               ║
+║               CSE-AI • SOFTWARE • SYSTEMS • INTELLIGENCE                     ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║      ┌──────────────────────┐       ┌────────────────────────────────────┐  ║
-║      │                      │       │ USER       : codedbyekta           │  ║
-║      │       /\_/\\         │       │ ROLE       : CSE-AI STUDENT        │  ║
-║      │      ( o.o )         │       │ UNIVERSITY : IGDTUW                │  ║
-║      │       > ^ <          │       │ OS         : Windows               │  ║
-║      │                      │       │ KERNEL     : CSE + AI ENGINEERING  │  ║
-║      │    AI CAT v1.0       │       │ STATUS     : ONLINE                │  ║
-║      └──────────────────────┘       │ UPTIME     : 200+ DAY LEETCODE     │  ║
-║                                     │                                    │  ║
+║                                     ┌─────────────────────────────────────┐  ║
+║                                     │ USER       : codedbyekta            │  ║
+║                                     │ ROLE       : CSE-AI STUDENT         │  ║
+║                                     │ UNIVERSITY : IGDTUW                 │  ║
+║                                     │ OS         : Windows                │  ║
+║                                     │ KERNEL     : CSE + AI ENGINEERING   │  ║
+║                                     │ STATUS     : ONLINE                 │  ║
+║                                     │ UPTIME     : 200+ DAY LEETCODE      │  ║
+║                                     │                                     │  ║
 ║                                     │ LANGUAGES  : Python, C++            │  ║
 ║                                     │ AI/ML      : ML, NLP, TF-IDF        │  ║
 ║                                     │ LLM        : RAG, LangGraph,        │  ║
@@ -30,22 +72,10 @@
 ║                                     │ DATABASES  : PostgreSQL, SQLite,    │  ║
 ║                                     │              ChromaDB, Firebase     │  ║
 ║                                     │ TOOLS      : Git, GitHub, Docker    │  ║
-║                                     └────────────────────────────────────┘  ║
+║                                     └─────────────────────────────────────┘  ║
 ║                                                                              ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  > INITIALIZING CSE-AI MODULES...                                           ║
-║  > LOADING SOFTWARE ENGINEERING STACK...                                    ║
-║  > LOADING MACHINE LEARNING STACK...                                        ║
-║  > CONNECTING TO GITHUB...                                                  ║
-║  > ACCESS GRANTED ✓                                                         ║
-║                                                                              ║
-║  CURRENT MISSION                                                            ║
-║  ───────────────                                                            ║
-║  Building software systems at the intersection of computer science,         ║
-║  software engineering and artificial intelligence.                         ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+
 ```
 
 # `> whoami`
