@@ -16,7 +16,7 @@
 ╭──────────────────────────────────────────────────╮
 │  EKTA                                            │
 │  ──────────────────────────────────────────────  │
-│  Focus: ....... AI/ML Engineer • SDE             │
+│  Focus: .......... AI/ML Engineer • SDE          │
 │  Education: ...... B.Tech CSE (AI) | IGDTUW      │
 │  Languages: ....... Python • C++                 │
 │  AI/ML: ........... ML • GenAI • RAG             │
