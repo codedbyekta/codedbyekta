@@ -9,5 +9,6 @@
 ```
 
 <p align="center">
-  <img src="ascii-art.png" alt="SearchForge" width="800">
+  <img src="ascii-art.png" alt="SearchForge" width="400">
 </p>
+
