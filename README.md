@@ -26,19 +26,7 @@
 │  Contact: ......... ekta042704@gmail.com         │
 ╰──────────────────────────────────────────────────╯
 </pre>
-> github_activity
 
-<!-- AUTO_ACTIVITY_START -->
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codedbyekta&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyekta&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<!-- AUTO_ACTIVITY_END -->
 
 </td>
 
