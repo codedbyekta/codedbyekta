@@ -23,7 +23,6 @@
 │  Development: ..... FastAPI • React • REST APIs  │
 │  Systems: ......... Search • Databases • Redis   │
 │  Current: ......... ML Intern @ CRRI             │
-│  Contact: ......... ekta042704@gmail.com         │
 ╰──────────────────────────────────────────────────╯
 </pre>
 
