@@ -31,7 +31,7 @@
 
 <td valign="middle" align="center">
 
-<img src="ascii-art.png" alt="Ekta" width="300">
+<img src="ascii-art.png" alt="Ekta" width="500">
 
 </td> </tr> </table>
 > connect
